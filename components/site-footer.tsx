@@ -13,7 +13,7 @@ const SiteFooter = () => {
             target="_blank"
             rel="noreferrer"
           >
-            NariIt&#39;s Code
+            Nari Code
           </Link>
           . Hosted on {""}
           <Link
